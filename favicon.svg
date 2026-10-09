@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="360">
+  <ellipse cx="170" cy="90" rx="80" ry="50" fill="brown"/>
+  <ellipse cx="170" cy="160" rx="120" ry="60" fill="brown"/>
+  <ellipse cx="170" cy="250" rx="150" ry="70" fill="brown"/>
+
+  <circle cx="145" cy="85" r="8" fill="black"/>
+  <circle cx="195" cy="85" r="8" fill="black"/>
+
+  <path d="M 135 105 Q 170 130 205 105"
+        stroke="black"
+        stroke-width="5"
+        fill="none"
+        stroke-linecap="round"/>
+</svg>
